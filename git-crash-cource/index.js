@@ -49,7 +49,9 @@ function newFeatureAddB()
 }
 function newFeatureAddC()
 {
-    console.log(" this is a new Function");
+    console.log(" this is a new Function A ");
+    console.log(" this is a new Function B ");
+    console.log(" this is a new Function C ");
     
 }
 
