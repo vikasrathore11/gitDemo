@@ -30,3 +30,9 @@ function newFun2()
     console.log("Hey I am a old Function");
     
 }
+
+function newFeatureadd()
+{
+    console.log(" this is a new Function");
+    
+}
