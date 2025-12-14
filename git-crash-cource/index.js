@@ -47,3 +47,9 @@ function newFeatureAddB()
     console.log(" this is a new Function");
     
 }
+function newFeatureAddC()
+{
+    console.log(" this is a new Function");
+    
+}
+
