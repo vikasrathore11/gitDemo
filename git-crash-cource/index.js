@@ -41,3 +41,9 @@ function newFeatureadd1()
     console.log(" this is a new Function");
     
 }
+
+function newFeatureAddB()
+{
+    console.log(" this is a new Function");
+    
+}
