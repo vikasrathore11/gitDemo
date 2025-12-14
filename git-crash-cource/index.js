@@ -36,3 +36,8 @@ function newFeatureadd()
     console.log(" this is a new Function");
     
 }
+function newFeatureadd1()
+{
+    console.log(" this is a new Function");
+    
+}
