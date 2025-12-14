@@ -24,3 +24,9 @@ function newFun()
     console.log("Hey I am a new Function");
     
 }
+
+function newFun2()
+{
+    console.log("Hey I am a old Function");
+    
+}
